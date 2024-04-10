@@ -1,4 +1,5 @@
 //IT WORKS!!
+// use nodemon or node src/index.js to run it
 
 const express = require('express');
 const path = require('path');
